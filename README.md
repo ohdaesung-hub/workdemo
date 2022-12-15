@@ -93,4 +93,4 @@
 
 
 ![box](images/mobile.jfif)
-[![daum](images/mobile.jfif)](https://www.daum.net/)
+[![daum](images/daum.png)](https://www.daum.net/)
