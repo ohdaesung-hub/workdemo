@@ -90,3 +90,6 @@
 ### 이미지 (images)
 
 ![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_196x196_112945520183682699.jpeg)
+
+
+![box](images/mobile.jpg)
