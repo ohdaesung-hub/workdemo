@@ -92,4 +92,5 @@
 ![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_196x196_112945520183682699.jpeg)
 
 
-![box](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fimage-comic.pstatic.net%2Fwebtoon%2F801589%2Fthumbnail%2Fthumbnail_IMAG19_4d232dd6-17b4-4fa1-9637-02c6a24f429c.jpg%22&type=n260_260&service=navermain)
+![box](images/mobile.jfif)
+[![daum](images/mobile.jfif)](https://www.daum.net/)
